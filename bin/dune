@@ -1,0 +1,4 @@
+(executable
+ (public_name evaders)
+ (name main)
+ (libraries evaders tsdl unix))
